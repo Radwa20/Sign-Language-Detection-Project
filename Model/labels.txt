@@ -1,0 +1,16 @@
+0 Bed
+1 Child
+2 Cigarette
+3 Drink
+4 Family
+5 Food
+6 Forget
+7 Hello
+8 I Love You
+9 Know
+10 No
+11 Please
+12 Sorry
+13 Thank You
+14 Thirsty
+15 Yes
