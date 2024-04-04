@@ -53,4 +53,5 @@ while True:
         print(counter)
     if (key & 0xFF) ==ord('q'):
         break
-    cap.release()
+cap.release()
+cv2.destroyAllWindows()
