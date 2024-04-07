@@ -1,16 +1,26 @@
-0 Bed
-1 Child
-2 Cigarette
-3 Drink
-4 Family
-5 Food
-6 Forget
-7 Hello
-8 I Love You
-9 Know
-10 No
-11 Please
-12 Sorry
-13 Thank You
-14 Thirsty
-15 Yes
+0 Bathroom
+1 Bed
+2 Child
+3 Cigarette
+4 DisLike
+5 Drink
+6 Family
+7 Food
+8 Forget
+9 Good
+10 Hello
+11 Hope
+12 I Love You
+13 Know
+14 Loser
+15 No
+16 Peace
+17 Please
+18 Quite
+19 Rock&Roll
+20 Sorry
+21 Thank You
+22 Thirsty
+23 Water
+24 Yes
+25 Yub

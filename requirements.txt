@@ -9,3 +9,8 @@ pip install opencv-python>=4.9.0.80
 pip install opencv-contrib-python>=4.9.0.80
 pip install cvzone>=1.6.1
 pip install numby>= 1.26.4
+pip install tensorflow>=2.14.0
+
+pip install tf-slim>=1.1.0
+pip install tf-utils>=1.0.4
+pip install keras>=2.14.0
